@@ -11,6 +11,7 @@ function getTodoListFromLocalStorage() {
     return parsedTodoList;
   }
 }
+///dummy changes
 
 let todoList = getTodoListFromLocalStorage();
 let todosCount = todoList.length;
